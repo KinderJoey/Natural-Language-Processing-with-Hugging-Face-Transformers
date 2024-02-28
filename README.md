@@ -17,7 +17,7 @@ Text Summarization. Generates a summary of a long sequence of text or document.
 Translation. Translates text into another language.
 
 ## Author
-- Cognitive Class
+- Svitlana Kramar
 
 ## Mentee
 - Nama: Ahmad Azhriel Rizha Zahran
