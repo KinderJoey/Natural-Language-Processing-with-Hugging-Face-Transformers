@@ -21,7 +21,7 @@ Translation. Translates text into another language.
 
 ## Mentee
 - Nama: Ahmad Azhriel Rizha Zahran
-- Program: IBM Advanced AI
+- Program: IBM Advance AI
 
 ## Table of Contents
 1. Objectives
